@@ -18,9 +18,9 @@
 ### Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Php-logo-notext.svg/110px-Php-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Codeiginiter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Codeiginiter_Icon.svg/220px-Codeiginiter_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Html_Icon.svg/220px-Html_Icon.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Codeiginiter" width="30px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Codeiginiter_Icon.svg/220px-Codeiginiter_Icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/4/4b/CodeIgniterLogo.png)" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
