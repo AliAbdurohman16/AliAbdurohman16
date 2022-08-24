@@ -6,6 +6,19 @@
 
 [![Github Badge](https://img.shields.io/badge/-aliabdurohman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AliAbdurohman16/)](https://www.github.com/AliAbdurohman16/) 
 
+<a href="mailto:aliabdurohman16@gmail.com" style="text-decoration: none;" target="_blank">
+  <img src="https://img.shields.io/badge/email-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/ali_abdurohman_" style="text-decoration: none;" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://facebook.com/ali.abdurohman.3" style="text-decoration: none;" target="_blank">
+  <img src="https://img.shields.io/badge/facebook-%2326A5E4?&style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ali-abdurohman-1122791b2/" style="text-decoration: none;" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <p align='left'>Berkepribadian yang tenang, mudah berinteraksi, bertanggung jawab, bekerja dengan berinovasi serta profesional baik secara individu maupun tim. Memiliki kemampuan Web Programing Backend menggunakan Framework Codeigniter dan Frontend HTML CSS3, serta familiar dengan Cyber Security.</p>
 
 ## Some of my Github Stats
