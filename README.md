@@ -13,9 +13,8 @@
   <img src="https://img.shields.io/badge/linkedin-%2326A5F8?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<p align="left">
-<a href="https://linkedin.com/in/ali-abdurohman-1122791b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-abdurohman-1122791b2" height="30" width="40" /></a>
-</p>
+<br />
+<br />
 
 <p align='left'>Halo, saya seseorang yang suka dengan bidang teknologi seperti dalam bidang programming. Saya mempunyai kepribadian bertanggung jawab, kreatif, bisa bekerja sama dengan tim, mudah diajak kolaborasi, dan bisa bekerja dengan profesional baik individu maupun tim. Saya belajar programming mulai dari Sekolah Menengah Kejuruan dan saya sekarang berfokus di bidang Web Developer pada bagian Backend, Namun saya juga familiar dan bisa mengerjakan bagian Frontend</p>
 
