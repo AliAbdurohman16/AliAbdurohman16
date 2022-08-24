@@ -15,6 +15,16 @@
 
 <p align='left'>Halo, saya seseorang yang suka dengan bidang teknologi seperti dalam bidang programming. Saya mempunyai kepribadian bertanggung jawab, kreatif, bisa bekerja sama dengan tim, mudah diajak kolaborasi, dan bisa bekerja dengan profesional baik individu maupun tim. Saya belajar programming mulai dari Sekolah Menengah Kejuruan dan saya sekarang berfokus di bidang Web Developer pada bagian Backend, Namun saya juga familiar dan bisa mengerjakan bagian Frontend</p>
 
+### Languages and Tools:
+
+[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Php-logo-notext.svg/110px-Php-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Codeiginiter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Codeiginiter_Icon.svg/220px-Codeiginiter_Icon.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Html_Icon.svg/220px-Html_Icon.svg.png" style="padding-right:10px;" />][webdev]
+
+<br />
+<br />
+
 ## Some of my Github Stats
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=AliAbdurohman16 alt=aliabdurohman16 /> </p>
