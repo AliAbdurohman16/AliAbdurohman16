@@ -29,9 +29,3 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=aliabdurohman16&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/aliabdurohman16/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdurohman16&layout=compact&theme=algolia)](https://github.com/aliabdurohman16/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliabdurohman16&show_icons=true&locale=en&layout=compact" alt="aliabdurohman16" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabdurohman16&show_icons=true&locale=en" alt="aliabdurohman16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliabdurohman16&" alt="aliabdurohman16" /></p>
