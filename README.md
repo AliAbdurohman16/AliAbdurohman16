@@ -1,4 +1,4 @@
-## Hey 👋, This is Ali Abdurohman
+## Halo 👋, Saya Ali Abdurohman
 
 <a href="mailto:aliabdurohman16@gmail.com" style="text-decoration: none;" target="_blank">
   <img src="https://img.shields.io/badge/email-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -15,7 +15,7 @@
 
 <p align='left'>Halo, saya seseorang yang suka dengan bidang teknologi seperti dalam bidang programming. Saya mempunyai kepribadian bertanggung jawab, kreatif, bisa bekerja sama dengan tim, mudah diajak kolaborasi, dan bisa bekerja dengan profesional baik individu maupun tim. Saya belajar programming mulai dari Sekolah Menengah Kejuruan dan saya sekarang berfokus di bidang Web Developer pada bagian Backend, Namun saya juga familiar dan bisa mengerjakan bagian Frontend</p>
 
-### Languages and Tools:
+## Languages and Tools
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />][webdev]
