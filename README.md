@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-aliabdurohman16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aliabdurohman16@gmail.com)](mailto:aliabdurohman16@gmail.com) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ali-abdurohman-1122791b2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-abdurohman-1122791b2/)](https://www.linkedin.com/in/ali-abdurohman-1122791b2/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ali Abdurohman-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-abdurohman-1122791b2/)](https://www.linkedin.com/in/ali-abdurohman-1122791b2/)
 
 [![Github Badge](https://img.shields.io/badge/-aliabdurohman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AliAbdurohman16/)](https://www.github.com/AliAbdurohman16/) 
 
