@@ -27,8 +27,9 @@
 
 ## Some of my Github Stats
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=AliAbdurohman16 alt=aliabdurohman16 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=AliAbdurohman16 alt=AliAbdurohman16 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=aliabdurohman16&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/aliabdurohman16/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=AliAbdurohman16&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/AliAbdurohman16/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdurohman16&layout=compact&theme=algolia)](https://github.com/aliabdurohman16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdurohman16&layout=compact&theme=algolia)](https://github.com/AliAbdurohman16/github-readme-stats)
+
