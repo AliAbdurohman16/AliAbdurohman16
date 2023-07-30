@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<p align='left'>Halo, saya seseorang yang suka dengan bidang teknologi seperti dalam bidang programming. Saya mempunyai kepribadian bertanggung jawab, kreatif, bisa bekerja sama dengan tim, mudah diajak kolaborasi, dan bisa bekerja dengan profesional baik individu maupun tim. Saya belajar programming mulai dari Sekolah Menengah Kejuruan dan saya sekarang berfokus di bidang Web Developer pada bagian Backend, Namun saya juga familiar dan bisa mengerjakan bagian Frontend</p>
+<p align='left'>Hello, I am someone who is passionate about the field of technology, particularly in programming. I possess responsible and creative personalities, and I am capable of working well both as part of a team and individually. I am currently focusing on programming and have gained experience in working on various web-based projects and creating APIs for Android applications. My interests lie in software development, and my career objective is to continuously enhance my programming skills and contribute to the creation of innovative technological solutions. I am eagerly seeking to join a dynamic and progressive team where I can continue learning and growing in an inspiring work environment.</p>
 
 ## Languages and Tools
 
